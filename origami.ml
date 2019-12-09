@@ -1,7 +1,5 @@
 (** PROJECT: ORIGAMI **)
 (** Author: Antoni Koszowski **)
-(** Reviewer: **)
-
 
 open List;;
 
